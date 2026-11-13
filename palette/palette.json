@@ -1,0 +1,15 @@
+{
+  "name": "Golden Team",
+  "version": "3.0.0",
+  "colors": {
+    "gold": {"hex": "#b8860b", "rgb": [184, 134, 11], "usage": "primary"},
+    "amber": {"hex": "#e0a526", "rgb": [224, 165, 38], "usage": "secondary"},
+    "navy": {"hex": "#14213d", "rgb": [20, 33, 61], "usage": "text"},
+    "cream": {"hex": "#fdf6e3", "rgb": [253, 246, 227], "usage": "background"},
+    "tail": {"hex": "#f4a261", "rgb": [244, 162, 97], "usage": "accent"}
+  },
+  "typography": {
+    "display": "Cinzel",
+    "body": "Lato"
+  }
+}

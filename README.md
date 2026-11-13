@@ -1,20 +1,17 @@
-# Golden Team Brand Kit
+# Golden Team Brand Kit (preview)
 
-Official brand and design package for the Golden City Comets of the Rivergate
-Roller Derby League.
+> 🚧 **Not yet published.** The final Golden City Comets design files are
+> still in league review and will be committed here after the 2026 season
+> branding approval.
 
-## Contents
+This repository is a placeholder for the upcoming Golden City Comets design
+package. Crest files, palette values and usage notes will be added once the
+league board signs off on the final artwork.
 
-- `palette/tokens.css` — club gold and navy color tokens
-- `palette/palette.json` — machine-readable palette
-- `assets/primary-crest.svg` — comet crest, primary lockup
-- `assets/wordmark.svg` — horizontal wordmark
-- `docs/usage.md` — usage rules for print and digital
-- `package.json` — package metadata
+## Planned contents
 
-## Release status
+- `palette/` — club color tokens (coming soon)
+- `assets/` — crest and wordmark exports (coming soon)
+- `docs/` — usage guide (coming soon)
 
-Version 3.0.0 is published for the 2026 season. The comet-tail artwork and
-palette in this repository are final and approved for all league uses.
-
-This repository is the league's own copy of the Golden Team brand package.
+Watch this space for the public release.

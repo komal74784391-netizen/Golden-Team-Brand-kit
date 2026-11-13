@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 200" width="220" height="200">
-  <title>Golden Team primary crest</title>
-  <rect x="10" y="10" width="200" height="180" rx="18" fill="#14213d"/>
-  <circle cx="86" cy="92" r="30" fill="#b8860b"/>
-  <path d="M108 84 C 140 66, 172 66, 196 80 C 176 92, 142 100, 112 96 Z" fill="#e0a526"/>
-  <path d="M108 100 C 140 100, 168 112, 186 132 C 158 140, 128 128, 106 114 Z" fill="#f4a261"/>
-  <text x="52" y="170" font-family="Cinzel, Georgia, serif" font-size="22" fill="#fdf6e3">GOLDEN CITY</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><title>Draft crest placeholder</title><circle cx="60" cy="60" r="40" fill="none" stroke="#b8860b" stroke-width="2"/></svg>
